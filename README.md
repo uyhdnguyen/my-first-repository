@@ -1,5 +1,6 @@
 # README #
 
 
-Hellow world, I love using git!
-change somthing news
+Hello world, I love using git!
+
+Adding some more texts!
